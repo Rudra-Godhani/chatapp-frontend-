@@ -1,8 +1,8 @@
 # Real Time Chat App
 
 ![chat](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/4268b8f7-9ef7-4d11-8c05-0a84abfd2804)
-![login](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/52fb08bf-e0ac-4b85-94e8-b121299ceafd)
-![signup](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/f9ff8035-8a28-4cbe-a8fe-97876919d0ff)
+![login](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/fd5d5770-3c82-4ce9-8748-61951ea60200)
+![signup](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/9aa90b7d-0c65-43ee-a65c-b0ac2bb9720e)
 ![setavatar](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/81913788-e376-40a9-9a80-39b287c1d5ff)
 
 # Getting Started with Create React App
