@@ -1,3 +1,10 @@
+# Real Time Chat App
+
+![chat](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/4268b8f7-9ef7-4d11-8c05-0a84abfd2804)
+![login](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/e456a08c-5258-4db0-b25f-df4f0c832d0a)
+![signup](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/39b18d78-ca9e-42a5-9e03-fc251d4cb245)
+![setavatar](https://github.com/Rudra-Godhani/chatapp-frontend/assets/139685113/81913788-e376-40a9-9a80-39b287c1d5ff)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
