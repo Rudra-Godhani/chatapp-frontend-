@@ -7,9 +7,6 @@ import Contacts from '../components/Contacts';
 import Welcome from '../components/Welcome';
 import ChatContainer from '../components/ChatContainer';
 import { io } from "socket.io-client"
-import { RiAccountCircleFill } from "react-icons/ri";
-import { BsChatLeftTextFill } from "react-icons/bs";
-import { MdOutlineLogout } from "react-icons/md";
 
 function Chat() {
   const socket = useRef();
